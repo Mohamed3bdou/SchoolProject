@@ -1,0 +1,16 @@
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net8.0\SchoolProject.Infrastructure.deps.json
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net8.0\SchoolProject.Infrastructure.dll
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net8.0\SchoolProject.Infrastructure.pdb
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net8.0\SchoolProject.Data.dll
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\bin\Debug\net8.0\SchoolProject.Data.pdb
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.csproj.AssemblyReference.cache
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.AssemblyInfoInputs.cache
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.AssemblyInfo.cs
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.sourcelink.json
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolPr.D35C9431.Up2Date
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.dll
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\refint\SchoolProject.Infrastructure.dll
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\SchoolProject.Infrastructure.pdb
+D:\CleanArchitecture\SchoolProject\SchoolProject.Infrastructure\obj\Debug\net8.0\ref\SchoolProject.Infrastructure.dll

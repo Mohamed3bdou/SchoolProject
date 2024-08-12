@@ -242,9 +242,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Data.csproj": {
-                "projectPath": "D:\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Data.csproj"
-              },
               "D:\\CleanArchitecture\\SchoolProject\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj": {
                 "projectPath": "D:\\CleanArchitecture\\SchoolProject\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj"
               }

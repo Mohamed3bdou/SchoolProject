@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SchoolProject.Service/1.0.0": {
+        "dependencies": {
+          "SchoolProject.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "SchoolProject.Service.dll": {}
+        }
+      },
+      "SchoolProject.Data/1.0.0": {
+        "runtime": {
+          "SchoolProject.Data.dll": {}
+        }
+      },
+      "SchoolProject.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SchoolProject.Data": "1.0.0"
+        },
+        "runtime": {
+          "SchoolProject.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchoolProject.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolProject.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolProject.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
